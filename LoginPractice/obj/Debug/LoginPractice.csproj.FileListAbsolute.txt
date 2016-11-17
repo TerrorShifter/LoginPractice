@@ -1,0 +1,14 @@
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\bin\Debug\LoginPractice.exe.config
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\bin\Debug\LoginPractice.exe
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\bin\Debug\LoginPractice.pdb
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.csprojResolveAssemblyReference.cache
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.Form1.resources
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.Properties.Resources.resources
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.csproj.GenerateResource.Cache
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.exe
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.pdb
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.Main.resources
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\bin\Debug\LoginPractice.exe.manifest
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\bin\Debug\LoginPractice.application
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.exe.manifest
+E:\Jed\Documents\Visual Studio\Projects\LoginPractice\LoginPractice\obj\Debug\LoginPractice.application
